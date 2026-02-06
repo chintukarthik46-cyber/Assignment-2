@@ -69,6 +69,7 @@ nav {
   padding: 6px 16px;
   border-radius: 8px;
   border: #e50914;
+  cursor: pointer;
 }
 #sec-1 {
   /* border: 2px solid yellow; */
@@ -128,6 +129,7 @@ nav {
   color: #ffffff;
   font-size: 24px;
   font-weight: 400;
+  cursor: pointer;
 }
 #curve {
   position: relative;
@@ -165,6 +167,10 @@ nav {
   width: 16%;
   display: flex;
   align-items: end;
+}
+.pic img:hover {
+  transform: scale(1.05);
+  cursor: pointer;
 }
 .pic img {
   position: relative;
@@ -207,11 +213,10 @@ nav {
   justify-content: center;
   align-items: center;
   gap: 1%;
-  
 }
 .card {
   /* border: 2px solid wheat; */
-  background: linear-gradient(to top left,#1d0a0a, #0f1020, #12162a);
+  background: linear-gradient(to top left, #1d0a0a, #0f1020, #12162a);
   height: 280px;
   width: 20%;
   border-radius: 15px;
@@ -322,7 +327,7 @@ nav {
   list-style: none;
   line-height: 190%;
 }
-.links ul li a{
+.links ul li a {
   color: #ffffffb3;
   list-style: none;
   font-size: 14px;
@@ -334,26 +339,27 @@ nav {
   padding: 6px 36px 6px 34px;
   margin-left: 7.7%;
 }
-#end-sel{
-   background: #2a2929;
-    height: 38px;
-    width: 45%;
-    border-radius: 5px;
-    color: #ffffff;
-    font-weight: 600;
+#end-sel {
+  background: #2a2929;
+  height: 38px;
+  width: 45%;
+  border-radius: 5px;
+  color: #ffffff;
+  font-weight: 600;
 }
-#netflix{
+#netflix {
   color: #ffffffb3;
   font-size: 14px;
   margin-left: 10%;
 }
-#ending{
+#ending {
   /* border: 2px solid white; */
   height: 100px;
   width: 100%;
 }
-#learn-more{
+#learn-more {
   color: #ffffff83;
   font-size: 13px;
   margin-left: 10%;
 }
+

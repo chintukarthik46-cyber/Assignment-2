@@ -1,0 +1,40 @@
+# 🎬 Netflix Page Clone
+
+A **Netflix page clone** created using **HTML5 and CSS3**, designed to closely match the visual layout and styling of the official Netflix India homepage.  
+This project focuses on clean UI design, layout structure, and modern CSS styling without using any frameworks or JavaScript.
+
+---
+
+## 🚀 Live Demo
+👉 *(Add GitHub Pages link here after deployment)*
+
+---
+
+## 📸 Preview
+*(Add screenshots here if needed)*
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5  
+- CSS3  
+- Flexbox  
+- CSS Gradients & Overlays  
+- SVG Icons  
+
+---
+
+## ✨ Features
+
+- Netflix-style hero section with background image overlay
+- Language selector (English / Hindi)
+- Sign In button UI
+- Email input with call-to-action buttons
+- Trending movies section with ranking numbers
+- Feature cards (TV, Downloads, Watch Everywhere, Kids)
+- Frequently Asked Questions section UI
+- Netflix-inspired footer with useful links
+- Clean typography and color palette
+
+---
